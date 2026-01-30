@@ -1,0 +1,6 @@
+corrida,latencia_prom_ms,utilizacion_prom_%,paquetes_perdidos,throughput_kbps
+1,4.64,95.86,0,9600.0
+2,4.08,95.64,0,9600.0
+3,4.22,96.1,0,9600.0
+4,3.58,95.8,0,9600.0
+5,3.55,95.92,0,9600.0
